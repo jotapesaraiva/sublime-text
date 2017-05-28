@@ -1,0 +1,75 @@
+Teclas de atalho
+
+Find in file (Ctrl + F)
+Find next (Ctrl + F3)
+Find previous (Ctrl + Shft + F3)
+desfazer (Ctrl + z)
+refazer (Ctrl + shift + z)
+
+Select All (Ctrl+A)
+Seleciona todo o conteúdo da aba ativa.
+
+Expand Selection to Line (Ctrl+L)
+Seleciona a linha na qual o cursor está posicionado.
+
+Next Occurence (ctrl + D)
+seleciona a proxima palavra
+
+Column Selection (Shift + right clik drag)
+Seleciona varias colunas
+
+Split Selection into lines (ctrl +  shift + L)
+Adiciona o curso em cada linha selecionada
+
+Wrap Selection with tag (alt + shift +w)
+Adicionar tag a um texto seleciona
+
+
+Move line vertically (ctrl + shift + arrow)
+Move a linha verticalmente para cima ou para baixo.
+
+Duplicate line (ctrl + shift + D)
+Duplicar a linha inteira.
+
+Delete line (ctrl + shift + K)
+deletar a linha inteira
+
+Indent line (ctrl + [ or ])
+Indentação de linha.
+
+Paste e indent (ctrl + shift + V)
+cola com indentação
+
+
+arrastar e soltar os arquivos o sublime
+Um clique no arquivo
+dois clique no arquivo
+
+goto anything (ctrl + P)
+Abrir os arquivos via console.
+
+<nome do arquio>
+    @<função(js)|class(css)>
+    #<tag ou conteudo da tag(html)>
+    :<numero a linha>
+
+
+Command Palette (ctrl + shift + P)
+paleta de comandos lista todos os comando do sublime text
+    convert
+    html encode special caracter
+    set syntax:
+
+snippets
+
+emment
+crtl + shift + G
+
+color theme
+
+custom settings
+
+
+http://csnipp.com/s/66/-List-of-commonly-used-sublime-text-commands
+https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet
+https://docs.emmet.io/cheat-sheet/

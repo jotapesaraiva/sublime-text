@@ -1,0 +1,13 @@
+{
+    "patterns": {
+        "TODO": "TODO[\\s]*?:+(?P<todo>.*)$",
+        "FIXME": "FIXME[\\s]*?:+(?P<fixme>.*)$",
+        "NOTE": "NOTE[\\s]*?:+(?P<note>.*)$",
+        "CHANGED": "CHANGED[\\s]*?:+(?P<changed>.*)$"
+    },
+    "exclude_folders": [
+        "*.git*",
+        "node_modules/*",
+        "bower_components/*"
+    ],
+}

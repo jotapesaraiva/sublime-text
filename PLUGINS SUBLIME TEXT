@@ -1,0 +1,178 @@
+PLUGINS SUBLIME TEXT
+
+==================================
+Install Package Control
+==================================
+https://packagecontrol.io/installation
+Script
+    View > Show Console
+    Copiar e colar o codigo
+Manual
+    Preferences > Browse Packages
+    baixar o Package Control.sublime-package
+    colar em Installed Packages/
+==================================
+Recursos de Arquivos e Pastas
+==================================
+	AdvancedNewFile
+	AutoFileName
+	All AutoComplete
+	SideBarEnhancements
+
+==================================
+Snippets
+==================================
+	Emmet
+    Emmet Css Snippets
+	TwitterBootstrap snippets
+	Bootstrap 3 Snippets
+	HTML5
+    AngularJS
+
+==================================
+Thema
+==================================
+	Material Theme
+	Material Theme - Appbar
+	Material Theme - White Panels
+
+==================================
+Recursos Visuais
+==================================
+    Alignment               => Ctrl + Alt + a
+	BracketHighlighter
+	Color Highlighter
+	ColorPicker               => ctrl+shift+c
+	Dictionaries*
+    SublimeLinter
+        php
+        jshint
+
+==================================
+Recursos Git
+==================================
+    Git
+    Git Gutter
+    Git Status
+
+==================================
+Recursos FTP
+==================================
+	SFTP
+
+==================================
+Recursos Extras
+==================================
+	Terminal
+	TodoReview
+    DocBlockr
+    Trimmer                   => Ctrl + Alt + s
+
+==================================
+#######Recursos Dicionario########
+==================================
+	Google Dictionary
+	Dictionaries
+
+==================================
+##Configurar Proxy Sublime Text###
+==================================
+Preferences >  Package Settings >  Package Control > Settings -User
+        "http_proxy": "10.3.1.22:80",
+        "https_proxy": "10.3.1.22:80",
+        "proxy_password": "senha",
+        "proxy_username": "login"
+
+==================================
+#####Customiza o Sublime Text#####
+==================================
+
+Preferences >  Settings-User
+{
+        "always_show_minimap_viewport": true,
+        "bold_folder_labels"          : true,
+        "caret_extra_bottom"          : 2,
+        "caret_extra_top"             : 2,
+        "caret_extra_width"           : 3,
+        "caret_style"                 : "solid",
+//Só acrescentar depois que instalar o material theme
+        "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker-OceanicNext.tmTheme",
+
+        "dictionary": "Packages/Dictionaries/Portuguese (Brazilian).dic",
+        "draw_white_space": "all",
+        "fade_fold_buttons": false,
+        "find_selected_text": true,
+        "font_options":
+        [
+                "gray_antialias",
+                "subpixel_antialias"
+        ],
+        "font_size": 14,
+        "highlight_line": true,
+        "highlight_modified_tabs": true,
+        "ignored_packages":
+        [
+                "Vintage"
+        ],
+        "indent_guide_options":
+        [
+                "draw_normal",
+                "draw_active"
+        ],
+        "line_padding_bottom": 3,
+        "line_padding_top": 3,
+//Só acrescentar depois que instalar o material theme
+        "material_theme_accent_cyan": true,
+        "material_theme_appbar_cyan": true,
+        "material_theme_bold_tab": true,
+        "material_theme_compact_panel": true,
+        "material_theme_compact_sidebar": true,
+        "material_theme_contrast_mode": true,
+        "material_theme_disable_fileicons": false,
+        "material_theme_disable_folder_animation": false,
+        "material_theme_disable_tree_indicator": false,
+        "material_theme_panel_separator": true,
+        "material_theme_small_statusbar": true,
+        "material_theme_small_tab": true,
+        "material_theme_tabs_autowidth": true,
+        "material_theme_tabs_separator": true,
+        "material_theme_tree_headings": true,
+
+        "overlay_scroll_bars": "enabled",
+        "rulers":
+        [
+                80
+        ],
+        "save_on_focus_lost": true,
+        "scroll_past_end": true,
+        "show_full_path": true,
+        "soda_classic_tabs": true,
+        "soda_folder_icons": true,
+        "tab_completion": false,
+        "tab_size": 4,
+//Só acrescentar depois que instalar o material theme
+        "theme": "Material-Theme.sublime-theme",
+
+        "translate_tabs_to_spaces": true,
+        "trim_trailing_white_space_on_save": true,
+        "word_wrap": false,
+        "wrap_width": 80
+}
+
+==================================
+############Referencias###########
+==================================
+http://sublimetextdicas.com.br/
+https://nandovieira.com.br/configurando-o-sublime-text-2
+http://webdesign.tutsplus.com/pt/articles/simple-visual-enhancements-for-better-coding-in-sublime-text--webdesign-18052
+http://webdesign.tutsplus.com/pt/tutorials/useful-shortcuts-for-a-faster-workflow-in-sublime-text-3--cms-22185
+
+https://www.granneman.com/webdev/editors/sublime-text/packages/how-to-install-and-use-sublime-alignment/
+https://packagecontrol.io/packages/DocBlockr
+http://sublimetextdicas.com.br/verificacao-ortografica-em-portugues/
+http://sublimetextdicas.com.br/todo-review-plugin-para-localizar-e-listar-tarefas-pendentes-no-sublime-text/
+http://sublimetextdicas.com.br/snippets-como-criar-atalhos-para-trechos-de-codigo-ou-texto/
+
+https://www.garethjmsaunders.co.uk/2015/04/25/sublime-text-plugin-shows-todo-comments-and-more/
+https://pad.gs/2014/06/11/todoreview/
+https://gist.github.com/tnunes/7d1d7d2a0049f2474538
